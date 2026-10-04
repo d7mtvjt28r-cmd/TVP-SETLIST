@@ -1,0 +1,10 @@
+{
+  "app": "The Vice Parade Setlist",
+  "version": "12.5-hosted",
+  "offline_ready": true,
+  "installable_pwa": true,
+  "changes": [
+    "Original songs sorted alphabetically",
+    "Cover songs sorted alphabetically"
+  ]
+}
